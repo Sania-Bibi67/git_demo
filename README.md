@@ -2,4 +2,6 @@
 
 Testing git commands.
 <br>
-Author: Sania Bibi
+Author: Sania Bibi 
+<br>
+Python Developer
